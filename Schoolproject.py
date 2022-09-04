@@ -5,7 +5,7 @@ import webbrowser as wb
 
 def StartUpMessage():
     print("##############################")
-    print("# Schoolproject 1.1          #")
+    print("# Schoolproject 1.2          #")
     print("# by BinStudent              #")
     print("##############################")
 
