@@ -16,7 +16,7 @@ def Questions():
     if category_ask == 1:
         category = "NSFWNeko"
     elif category_ask == 2:
-        category == "yuri"
+        category = "yuri"
     elif category_ask == 3:
         category = "ero"
     elif category_ask == 4:
